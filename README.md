@@ -1,2 +1,1 @@
 # proof-landing
-# proof-landing
